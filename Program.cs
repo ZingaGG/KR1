@@ -1,4 +1,4 @@
-﻿string[] a = {"Hello", "2", "world", ":-)"};
+﻿string[] a = {"Hello", "2", "wor", ":-)"};
 
 int ArrayLength = SumQualifiedElements(a);
 
